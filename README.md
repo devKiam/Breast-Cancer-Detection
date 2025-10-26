@@ -5,7 +5,7 @@
   - [Breast Histopathology Images Dataset](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images/data) [Modality: Image] — Comprises image patches of Invasive Ductal Carcinoma (IDC), the most common subtype of breast cancer.  
 
 - **Malignant vs. Benign Classification:**  
-  Preprocessed the Breast Cancer Wisconsin (Diagnostic) dataset by handling missing values, removing highly correlated features, and applying feature scaling. Trained models using Logistic Regression, K-Nearest Neighbors, Decision Tree, Random Forest, and Gradient Boosting classifiers, then ranked their performance based on classification scores.  
+  Preprocessed the Breast Cancer Wisconsin (Diagnostic) dataset by handling missing values, removing highly correlated features, and applying feature scaling. Trained models -- Logistic Regression, K-Nearest Neighbors, Decision Tree, Random Forest, and Gradient Boosting classifiers, then ranked their performance based on classification scores.  
 
 - **Ductal Carcinoma (IDC) Detection:**  
   Downsampled the dataset to handle class imbalance and developed a Convolutional Neural Network (CNN), which was fine-tuned for the IDC classification task.  
